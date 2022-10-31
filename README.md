@@ -9,7 +9,6 @@ We will be using the Crimes in US Communities dataset to predict the crime rate 
 
 ---
 
-### Data Source:
-[Crimes in US Communities](https://www.kaggle.com/datasets/michaelbryantds/crimedata)
+### Data Source: [Crimes in US Communities](https://www.kaggle.com/datasets/michaelbryantds/crimedata)
 
 The Crimes in US Communities dataset provides 146 variables that allow us to test and understand which categorical factors impact crime rates. The dataset is from 2018 and includes information about US communities such as population, age, race, income, types of crimes, and overall crime rates.
