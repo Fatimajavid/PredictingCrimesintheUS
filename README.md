@@ -1,4 +1,4 @@
-# Crime Prediction
+# Crime Prediction (CUNY Tech Prep Porject)
 
 ## Team name: Data Cops
 ## Team member: Bibata Rabba Idi, Fatima Javid, JianHui (Jake) Li
