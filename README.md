@@ -20,4 +20,4 @@ The Crimes in US Communities dataset provides 146 variables that allow us to tes
 
 ### Web App
 
-Click [here]() to go to our web app to interact with the crime prediction model.
+Click [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/) to go to our web app to interact with the crime prediction model.
