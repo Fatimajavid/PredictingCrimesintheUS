@@ -29,7 +29,7 @@ The top 5 most importance feautes in descending order are:
 
 Using only these 5 features, our model yielded an R^2 of 0.93.
 
-We also built an web app using Streamlit for users to interact with our model, check it out [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/)
+We also built an web app using Streamlit for users to interact with our model, check it out [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/).
 
 ## :hammer_and_wrench: Tech Stack
 
