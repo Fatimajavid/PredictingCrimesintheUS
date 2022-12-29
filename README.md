@@ -1,5 +1,8 @@
 
 # Crime Prediction (CTP Project)
+
+We built an web app using Streamlit for users to interact with our model, check it out [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/).
+
 ### Team Name: Data Cops
 ### Team Members: Bibata Rabba Idi, Fatima Javid, JianHui (Jake) Li
 
@@ -28,8 +31,6 @@ The top 5 most importance feautes in descending order are:
 5. NumStreet: number of homeless people on the street
 
 Using only these 5 features, our model yielded an R^2 of 0.93.
-
-We also built an web app using Streamlit for users to interact with our model, check it out [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/).
 
 ## :hammer_and_wrench: Tech Stack
 
