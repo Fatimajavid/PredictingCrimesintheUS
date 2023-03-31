@@ -3,8 +3,9 @@
 
 We built an web app using Streamlit for users to interact with our model, check it out [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/).
 
-### Team Name: Data Cops
-### Team Members: Bibata Rabba Idi, Fatima Javid, JianHui (Jake) Li
+**Team Name**: Data Cops
+
+**Team Members**: Bibata Rabba Idi, Fatima Javid, JianHui (Jake) Li
 
 **Goal**: To predict total number of crimes in a year using the US community demographic factors.
 
