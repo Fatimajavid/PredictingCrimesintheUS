@@ -19,7 +19,7 @@ This dataset is from Kaggle and it contains 2215 observations and 146 attributes
 
 1. Performed exploratory data analysis, data cleaning, and feature engineering
 2. Built model using random forest regressor.
-3. Evaluated model performance and feature importance,
+3. Evaluated model performance and feature importance.
 4. Visualized prediction results.
 
 ## :dart: Results
