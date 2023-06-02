@@ -1,5 +1,4 @@
-
-# Crime Prediction
+# Crime Rate Prediction
 
 We built an web app using Streamlit for users to interact with our model, check it out [here](https://fatimajavid-crimepredictionapp-homepage-lp2yy9.streamlit.app/).
 
